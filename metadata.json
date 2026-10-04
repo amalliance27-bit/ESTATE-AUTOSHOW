@@ -1,0 +1,8 @@
+{
+  "name": "Remix 22510 La Quilla Dr — Châteaux Loire Estate, Chatsworth",
+  "description": "A cinematic scroll-driven tour of a 7,467 sq ft French chateau estate on two guard-gated acres in Chatsworth, California. Offered at $4,795,000.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
